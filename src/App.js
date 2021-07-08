@@ -1,9 +1,9 @@
+import Sidebar from './components/sidebar/Sidebar';
 
-import { connect } from 'react-redux';
 function App() {
   return (
     <div className="App">
-      
+        <Sidebar />
     </div>
   );
 }

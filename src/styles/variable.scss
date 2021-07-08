@@ -1,0 +1,27 @@
+$dark-purple: #040930;
+$light-purple: #202347;
+$light-gray: #fbfdff;
+$primary-button: #396aff;
+$white: #ffffff;
+
+
+
+.horizontal-center {
+    display: flex;
+    justify-content: center;
+}
+
+.vertical-center {
+    display: flex;
+    align-items: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}
